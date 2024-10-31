@@ -13,9 +13,9 @@ Welcome to the **Rust Learning Repository**! This collection gathers resources, 
 
 1. **Clone the Repository**
 
-```
-$ git clone https://github.com/username/rusty-asof.git
-$ cd rusty-asof
+```bash
+git clone https://github.com/username/rusty-asof.git
+cd rusty-asof
 ```
 
 2. **Explore and Run Code**
