@@ -40,4 +40,4 @@ This is a growing repository! Feel free to contribute by submitting pull request
 
 ### License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the GNU General Public License. See the `LICENSE` file for more details.
